@@ -61,7 +61,7 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
-    rails (3.2.15)
+    rails (4.1.11)
       actionmailer (= 3.2.13)
       actionpack (= 3.2.13)
       activerecord (= 3.2.13)
